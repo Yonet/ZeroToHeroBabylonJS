@@ -1,4 +1,4 @@
-# 30DaysOfBabylon
+# ZerovTo Hero: BabylonJS
 
 ## Basics
 
