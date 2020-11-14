@@ -4,7 +4,11 @@
 
 ### Day 1
 
-Create your first scene with light, camera and a 3D object.
+Create your first scene with light, camera and a 3D object. Compare BabylonJS basic scene with ThreeJS basic Scene. 
+
+- ![Getting started with 3D on the Web: BabylonJS vs ThreeJS](http://img.youtube.com/vi/1BbxT9_SFVw/0.jpg)](https://www.youtube.com/watch?v=1BbxT9_SFVw)
+- [Twitch](https://www.twitch.tv/videos/802240009)
+- [Basic Scene Curriculum](https://yonet.gitbook.io/mixed-reality-docs/-MHmDWJS71Z0_jhk69k4/webxr-lessons/3d-on-the-web/project/how-to-create-a-basic-3d-scene)
 
 ### Day 2
 
