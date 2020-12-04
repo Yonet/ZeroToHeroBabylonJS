@@ -1,18 +1,26 @@
 # ZerovTo Hero: BabylonJS
 
+Learn BabylonJS for creating 3D on the web and Immersive experiences with WebXR APIs. 
+
+Follow the journey and code examples in this repo. Leave a comment in the issues for the tutorials you would like to see.
+
 ## Basics
 
 ### Day 1
+
+Learn about the new features of BabylonJS 4.2.0 from the team members. Watch the WebXR Hand Input demos as well as the new node editors.
+
+[![XR Tea Party: BabylonJS 4.2.0](http://img.youtube.com/vi/Lg4B_H-t8fY/0.jpg)](https://www.youtube.com/watch?v=Lg4B_H-t8fY&t=2004s)
+
+
+
+### Day 2
 
 Create your first scene with light, camera and a 3D object. Compare BabylonJS basic scene with ThreeJS basic Scene. 
 
 - [![Getting started with 3D on the Web: BabylonJS vs ThreeJS](http://img.youtube.com/vi/1BbxT9_SFVw/0.jpg)](https://www.youtube.com/watch?v=1BbxT9_SFVw)
 - [Twitch](https://www.twitch.tv/videos/802240009)
 - [Basic Scene Curriculum](https://yonet.gitbook.io/mixed-reality-docs/-MHmDWJS71Z0_jhk69k4/webxr-lessons/3d-on-the-web/project/how-to-create-a-basic-3d-scene)
-
-### Day 2
-
-Discover basic elements: https://doc.babylonjs.com/babylon101/discover_basic_elements.
 
 ### Day 3
 
